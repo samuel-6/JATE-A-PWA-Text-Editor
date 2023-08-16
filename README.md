@@ -29,15 +29,21 @@ To set up the development environment and run the project locally, follow these 
 ## Usage
 
 Once the environment is set up, simply click on the editor area and begin typing, this is where you can write your notes or code snippets.
+
 When you're done using the application, you can simply close the browser.
 
 ## Features
 
 - IndexedDB will automatically create a database storage for your content.
+
 - As you type, your content is automatically saved, you don't need to manually save.
+
 - If you navigate away or close the browser, your content will be retained in the editor for future access.
+
 - When you reopen the application later, your previously typed content will be retrieved and loaded in the editor.
+
 - If you want to install the web application and have quick access, you can click the "Install" button, this will create an icon on your desktop.
+
 - The service worker ensures that the application works offline, you can use the editor even without an internet connection.
 
 For visual reference, here's a screenshot of the text editor in action:
