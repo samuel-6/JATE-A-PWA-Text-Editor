@@ -49,6 +49,8 @@ When you're done using the application, you can simply close the browser.
 For visual reference, here's a screenshot of the text editor in action:
 ![Text Editor Screenshot](assets/images/screenshot.png)
 
+You can also visit the deployed page [here!](https://blooming-badlands-75346-4588ad2194c9.herokuapp.com/)
+
 ## Credits
 
 This project was created by: [Samuel Munguia](https://github.com/samuel-6)
